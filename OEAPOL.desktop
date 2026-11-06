@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OEAPOL
+Comment=EAPOL/802.1X Analyzer
+Exec=OEAPOL
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OWireless;
